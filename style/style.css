@@ -1,0 +1,30 @@
+body{
+  height: 100vh;
+  background-color: #4F696A;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.content{
+  border: 20px;
+  padding: 0px;
+  width: 400px;
+  height: 550px;
+  background-color: #102020;
+  color: white;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 40px;
+}
+img{
+  width: 150px;
+  
+}
+
+#lorem{
+  text-transform: none;
+  font-size: 14px;
+  margin: 0;
+}
